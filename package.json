@@ -1,0 +1,9 @@
+{
+  "name": "node_using_pm2",
+  "version": "1.0.0",
+  "description": "Simple static Node.js application for PM2 practice.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
